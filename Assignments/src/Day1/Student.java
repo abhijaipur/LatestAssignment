@@ -8,6 +8,7 @@ public class Student {
  public void displaye()
  {
 	 System.out.println("Welcome to all of you");
+	 System.out.println("Welcome to all of you");
  }
  public void dispalye2()
  {
